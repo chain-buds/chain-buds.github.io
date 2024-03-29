@@ -6,7 +6,7 @@ subtitle: <i>At the intersection of protein design, systems biology and spin che
 
 profile:
   align: right
-  image: baishunpeng.png
+  image: baishunpeng.jpg
   image_circular: false # crops the image to make it circular
   address: >
     College of Life Science and Technology, HZAU
