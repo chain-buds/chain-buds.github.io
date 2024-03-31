@@ -1,5 +1,5 @@
 # ShunPeng Bai · 白 顺鹏
-This is ShunPeng Bai's Blog. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.I used the template of <a href="https://github.com/zishengz/zishengz.github.io">ZiSheng Zhang's Blog</a> and referrd to the <a href="https://zhuanlan.zhihu.com/p/613068160">tutorial</a> written by ZiSheng Zhang.
+This is ShunPeng Bai's personal website. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.I used the template of <a href="https://github.com/zishengz/zishengz.github.io">ZiSheng Zhang's Blog</a> and referrd to the <a href="https://zhuanlan.zhihu.com/p/613068160">tutorial</a> written by ZiSheng Zhang.
 
 ## License
 
