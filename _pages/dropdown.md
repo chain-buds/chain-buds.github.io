@@ -10,5 +10,5 @@ children:
     - title: projects
       permalink: /projects/
     - title: Chainbot.top
-      permaline: https://www.chainbot.top
+      permaline: https://www.chainbot.top/
 ---
