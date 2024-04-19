@@ -9,4 +9,6 @@ children:
       permalink: https://spin-chemistry-community.github.io/
     - title: projects
       permalink: /projects/
+    - title: Chainbot.top
+      permaline: https://www.chainbot.top
 ---
