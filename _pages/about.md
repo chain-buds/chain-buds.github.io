@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is ShunPeng Bai (白 顺鹏), a undergraduate student majoring bioengineering at Life Science and Technology school of Huazhong Agricultural University.
+My name is ShunPeng Bai (白顺鹏), a undergraduate student majoring bioengineering at Life Science and Technology school of Huazhong Agricultural University.
 I am currently engaged in both study and research at the Green Pesticide Chemistry Laboratory under Prof. HuaiLong Teng and the Biocatalysis Laboratory led by Prof. ShuKe Wu.
 
 I am passionate about the interdisciplinary field of biology and chemistry, focusing more on how living things sense magnetic fields through quantum effects and how these fields can change chemical reactions in a quantum way. I hope to create amazing results by controlling how unseen magnetic fields interact with sensors in complex systems. This work is to help us better grasp how complex systems in biology and chemistry work.
