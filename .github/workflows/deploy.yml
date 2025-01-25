@@ -23,6 +23,8 @@ jobs:
         bundler-cache: true
     - name: Update Bundler
       run: gem install bundler
+    - name: Update specific uri
+      run: gem 'uri', '~> 1.0', '>= 1.0.2'
     - name: Install deps
       run: |
         npm install -g mermaid.cli
