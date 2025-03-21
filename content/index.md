@@ -1,6 +1,9 @@
 ---
 title: Shunpeng Bai (白顺鹏)
 ---
+
+![College of Life Science and Technology of Huazhong Agricultural University](/images/bsp.jpg)
+
 My name is ShunPeng Bai (白顺鹏), a undergraduate student majoring bioengineering at Life Science and Technology school of Huazhong Agricultural University.
 I am currently engaged in studying at the Natural pharmaceutical Chemistry Laboratory directed by AP Shengzhen Xu and being remote intern at [Shen-Lab](https://www.shen-lab.org/) directed by AP Xiaotao Shen.
 
