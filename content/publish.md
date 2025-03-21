@@ -56,11 +56,8 @@ img {
  		
 
 
-Click on these icons for the paper <img src="images/file-cloud-download.png"> to download pdf, or <img src="images/media.png"> for media coverage.
+Click on these icons for the paper <img src="../images/file-cloud-download.png"> to download pdf.
 
-* A. Barua,  **A.S. Mikheyev**. Many options, few solutions: Over 60 my snakes converged on a few optimal venom formulations. *in press*, 2019 [<img src="images/file-cloud-download.png">](https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msz125/28930891/msz125.pdf)
+* Du, D., Peng, H., He, L., **Bai, S**., Li, Z., & Teng, H. (2022). Synthesis of remote fluoroalkenyl ketones by photo-induced ring-opening addition of cyclic alkoxy radicals to fluorinated alkenes. Organic & Biomolecular Chemistry, 20(47), 9313-9318. [<img src="../images/file-cloud-download.png">](../pdf/ddh2022.pdf)
 
-* A. Wallberg, I. Bunikis, O.V. Pettersson, M-B. Mosbech, A.K. Childers, J.D. Evans, **A.S Mikheyev**, H.M. Robertson, G.E. Robinson, M.T. Webster. A hybrid *de novo* genome assembly of the honeybee, *Apis mellifera*, with chromosome-length scaffolds. *BMC Genomics*, 20 , 275, 2019 [<img src="images/file-cloud-download.png">](https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-019-5642-0)
-
-* M.R. Warner, L. Qiu, M.J Holmes, **A.S. Mikheyev**, T.A. Linksvayer. Convergent eusocial evolution is based on a shared reproductive groundplan plus lineage-specific plastic genes. *Nature Communications*. 10:2651, 2019
-[<img src="images/file-cloud-download.png">](https://www.nature.com/articles/s41467-019-10546-w.pdf)
+* Zheng, J., Li, S., **Bai, S**., Liu, X., Sun, R., Xu, S., & Qu, W. An Organic Small Molecule Fluorescent Probe for Nondestructive Detection of Zn2+ in Plants. Available at SSRN 5131471. [<img src="../images/file-cloud-download.png">](../pdf/zjy2025.pdf)
