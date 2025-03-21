@@ -8,23 +8,25 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Shunpeng BAI",
+    pageTitleSuffix: "chain_buds",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-LRSM83798L"
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "baishunpeng.top",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
+        title: "Poppins",
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        body: "Source Sans 3",
         code: "IBM Plex Mono",
       },
       colors: {
