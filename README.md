@@ -1,18 +1,7 @@
-# Quartz v4
+# Shunpeng Bai （白顺鹏）
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+[My Personal Website](baishunpeng.top)
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+> My work integrates biology, chemistry, and computational science to advance precision medicine. Leveraging multi-omics data, I develop AI-driven models to dissect complex biological systems and identify disease mechanisms. Concurrently, I employ generative chemistry, virtual screening, and structure-based design to explore vast chemical spaces for novel therapeutics. By bridging multi-omics insights with computational drug discovery, my research aims to accelerate the development of personalized therapies, targeting unmet medical needs in oncology, neurodegeneration, and beyond. This interdisciplinary synergy—spanning systems biology, cheminformatics, and machine learning—strives to translate biological discoveries into clinically actionable solutions. (。・_・)ﾉ💊
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Built with [Quartz v4](https://quartz.jzhao.xyz/) and [Vercel](https://vercel.com/)
