@@ -2,7 +2,7 @@
 title: Shunpeng Bai (白顺鹏)
 ---
 
-![College of Life Science and Technology of Huazhong Agricultural University](https://github.com/chain-buds/chain-buds.github.io/blob/v4/images/bsp.jpg?raw=true)
+<img src="https://github.com/chain-buds/chain-buds.github.io/blob/v4/images/bsp.jpg?raw=true" alt="Profile photo of mine" title="College of Life Science and Technology of Huazhong Agricultural University" width=70%>
 
 My name is ShunPeng Bai (白顺鹏), a undergraduate student majoring bioengineering at Life Science and Technology school of Huazhong Agricultural University.
 I am currently engaged in studying at the Natural pharmaceutical Chemistry Laboratory directed by AP Shengzhen Xu and being remote intern at [Shen-Lab](https://www.shen-lab.org/) directed by AP Xiaotao Shen.
