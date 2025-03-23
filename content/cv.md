@@ -19,3 +19,5 @@ title: Curriculum Vitae (CV)
 </body>
 
 </html>
+
+{{[[pdf]]: https://github.com/chain-buds/chain-buds.github.io/blob/v4/pdf/en-CV-baishunpeng.pdf?raw=true}}
