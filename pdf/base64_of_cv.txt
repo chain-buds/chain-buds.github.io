@@ -1,12 +1,4 @@
----
-title: Curriculum Vitae (CV)
----
-
-
-<div class="pdf-container">
-  <embed 
-    type="application/pdf" 
-    src="data:application/pdf;base64,JVBERi0xLjcKJYCAgIAKCjUgMCBvYmoKPDwKICAvVHlwZSAvRm9udAogIC9TdWJ0
+JVBERi0xLjcKJYCAgIAKCjUgMCBvYmoKPDwKICAvVHlwZSAvRm9udAogIC9TdWJ0
 eXBlIC9UeXBlMAogIC9CYXNlRm9udCAvS0lQSUhPK0xpYmVydGludXNTZXJpZi1S
 ZWd1bGFyLUlkZW50aXR5LUgKICAvRW5jb2RpbmcgL0lkZW50aXR5LUgKICAvRGVz
 Y2VuZGFudEZvbnRzIFs2IDAgUl0KICAvVG9Vbmljb2RlIDggMCBSCj4+CmVuZG9i
@@ -811,17 +803,3 @@ MzYzNTEgMDAwMDAgbg0KMDAwMDAzNzU5NiAwMDAwMCBuDQp0cmFpbGVyCjw8CiAg
 L1NpemUgMzcKICAvUm9vdCAzNiAwIFIKICAvSW5mbyAzNCAwIFIKICAvSUQgWyhJ
 VnE2MUY4UlRlbXVtWkx5YnFHQWJ3PT0pIChsN0c0d1dPUW92Nk1JQm5LYzlGd2tR
 PT0pXQo+PgpzdGFydHhyZWYKMzc3MzMKJSVFT0Y=
-">
-</div>
-
-<style>
-  .pdf-container {
-    max-width: 100%;    /* 容器最大宽度 */
-    height: 100vh;       /* 视口高度的 80% */
-    margin: 0 auto;     /* 居中 */
-  }
-  .pdf-container embed {
-    width: 100%;        /* 撑满容器宽度 */
-    height: 100%;       /* 撑满容器高度 */
-  }
-</style>
