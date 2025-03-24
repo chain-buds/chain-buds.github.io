@@ -55,7 +55,6 @@ img {
 </style>
  		
 
-
 Click on these icons for the paper <img src="https://s21.ax1x.com/2025/03/24/pEBVs7n.png"> to download pdf, and <img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png"> to read online.
 
 * Du, D., Peng, H., He, L., **Bai, S**., Li, Z., & Teng, H. (2022). Synthesis of remote fluoroalkenyl ketones by photo-induced ring-opening addition of cyclic alkoxy radicals to fluorinated alkenes. Organic & Biomolecular Chemistry, 20(47), 9313-9318. [<img src="https://s21.ax1x.com/2025/03/24/pEBVs7n.png">](https://github.com/chain-buds/chain-buds.github.io/blob/v4/pdf/ddh2022.pdf?raw=true) [<img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png">](https://pubs.rsc.org/en/content/articlelanding/2022/ob/d2ob01533a/unauth)

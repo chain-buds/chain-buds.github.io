@@ -1,11 +1,68 @@
 ---
 title: News
 ---
+<style>
+.info.obfuscate {
+unicode-bidi: bidi-override;
+direction: rtl;
+text-align:left;
+}
 
-- Served as a peer tutor for the chemistry course at Huazhong Agricultural University (2022.2-2022.7).[<img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png">](https://s21.ax1x.com/2025/03/24/pEBBGYq.jpg)
-- Award for Excellence in the 14th "Huazhong Cup" College Students' Mathematical Modeling competition.[<img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png">](https://s21.ax1x.com/2025/03/24/pEBBlwj.jpg)
-- Organic lecture titled "Understanding organic reaction from Markov addition reaction mechanism" for undergraduate student.[<img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png">](https://s21.ax1x.com/2025/03/24/pEBBRXD.jpg)
-- Third Prize in the 15th "Huazhong Cup" College Students' Mathematical Modeling competition.[<img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png">](https://s21.ax1x.com/2025/03/24/pEBB1Ts.jpg)
-- 2024 Gold Award in the Synthetic Biology Innovation Competition.[<img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png">](https://s21.ax1x.com/2025/03/24/pEBB8kn.jpg)
+div {
+  margin: 0 0 0 0;
+}
+
+#right {
+  float:right;
+  margin-left: 50px;
+}
+
+#contact {
+  width:70%;
+}
+
+body {
+  font-family: "Source Sans Pro", "Lucida Grande", Calibri, Helvetica, sans-serif;
+  font-size: normal;
+  margin-top:0%;
+  margin-bottom:0%;
+  margin-right:0%;
+  margin-left:0%;
+  line-height: 1;
+
+}
+
+h1 {
+  font-size: 2.0em;
+  margin-bottom: 10px;
+}
+
+li {
+  margin: 0 0 5px 0;
+  line-height: 1.5;
+}
+
+li li {
+  list-style-type: none;
+  margin-right: 20%;
+}
+
+img {
+  vertical-align: top;
+}
+</style>
+
+Click on these icons for the certificates <img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png"> to download images.
+
+* Served as a peer tutor for the chemistry course at Huazhong Agricultural University (2022.2-2022.7). [<img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png">](https://s21.ax1x.com/2025/03/24/pEBBGYq.jpg)
+
+* Award for Excellence in the 14th "Huazhong Cup" College Students' Mathematical Modeling competition. 
+[<img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png">](https://s21.ax1x.com/2025/03/24/pEBBlwj.jpg)
+
+* Organic lecture titled "Understanding organic reaction from Markov addition reaction mechanism" for undergraduate student. [<img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png">](https://s21.ax1x.com/2025/03/24/pEBBRXD.jpg)
+
+* Third Prize in the 15th "Huazhong Cup" College Students' Mathematical Modeling competition. [<img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png">](https://s21.ax1x.com/2025/03/24/pEBB1Ts.jpg)
+
+* 2024 Gold Award in the Synthetic Biology Innovation Competition. [<img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png">](https://s21.ax1x.com/2025/03/24/pEBB8kn.jpg)
 
 
