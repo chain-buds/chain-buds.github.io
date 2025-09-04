@@ -2,7 +2,7 @@
 title: Shunpeng Bai (白顺鹏)
 ---
 
-<img src="https://s21.ax1x.com/2025/03/24/pEBVr0s.jpg" alt="Profile photo of mine" title="College of Life Science and Technology of Huazhong Agricultural University" width=60%>
+<img src="https://s21.ax1x.com/2025/09/04/pVgLBfs.jpg" alt="Profile photo of mine" title="College of Life Science and Technology of Huazhong Agricultural University" width=60%>
 
 
 My name is ShunPeng Bai (白顺鹏), a undergraduate student majoring bioengineering at **College of Life Science and Technology of Huazhong Agricultural University**.
