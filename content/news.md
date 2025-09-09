@@ -54,6 +54,10 @@ img {
 
 Click on these icons for the certificates <img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png"> to download images.
 
+* [lagcishiny](https://laggedcorshiny.jaspershenlab.com/) is online
+
+* Become maintainer of R packages: [masstools](https://github.com/tidymass/masstools)
+
 * Summer internship experience at Shen-Lab (NTU) (07.10.2025 - 08.25.2025) [<img src="https://s21.ax1x.com/2025/03/24/pEBVct0.png">](https://s21.ax1x.com/2025/09/04/pVgO6Cd.jpg)
 
 * Remote internship experience at Shen-Lab (NTU) (03.20.2025 - 07.09.2025)
