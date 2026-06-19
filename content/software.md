@@ -43,7 +43,7 @@ Open-source tools and applications I build and maintain. See more on my [GitHub]
   <li>
     <b>lagcishiny</b> — One of the developers of this web application for lagged correlation analysis.
     <span class="sw-actions">
-      <a class="btn" href="https://laggedcorshiny.jaspershenlab.com/" target="_blank" rel="noopener">Launch app</a>
+      <a class="btn" href="https://lagcishiny.jaspershenlab.com/" target="_blank" rel="noopener">Launch app</a>
     </span>
   </li>
 </ul>
