@@ -89,3 +89,5 @@ img { vertical-align: top; }
     </span>
   </li>
 </ul>
+
+<p style="margin-top:.8rem; font-size:.9em; color:var(--gray, #888);"># denotes co-first authors.</p>
