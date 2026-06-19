@@ -77,4 +77,15 @@ img { vertical-align: top; }
       <a class="btn" href="https://www.sciencedirect.com/science/article/pii/S0040403925001029" target="_blank" rel="noopener">Read online</a>
     </span>
   </li>
+
+  <li>
+    Shen, X., Qiang, Z., <b>Bai, S.</b>, &amp; Wu, Y. (2026).
+    LagCI Enables Inference of Temporal Causal Relationships from Dense Multi-Omic Time Series.
+    <i>bioRxiv</i>.
+    <span class="pub-actions">
+      <a class="btn" href="/static/pdfs/lagci-biorxiv.pdf" target="_blank" rel="noopener">Download</a>
+      <a class="btn" href="https://www.biorxiv.org/content/10.64898/2026.04.15.718654v1" target="_blank" rel="noopener">Read online</a>
+      <a class="btn" href="https://github.com/jaspershen-lab/lagci" target="_blank" rel="noopener">Code</a>
+    </span>
+  </li>
 </ul>
