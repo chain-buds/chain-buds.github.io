@@ -11,5 +11,3 @@ I am currently engaged in studying at the Natural pharmaceutical Chemistry Labor
 I’m an interdisciplinary researcher exploring the chemistry at the heart of biological life. Trained in chemistry and biology, I’m equally curious about computer science and engineering. My current focus is on the fascinating mechanisms that power living systems—especially their chemical essence—and on using computational tools to probe and control these processes. I enjoy turning molecular insight and code into new functions, platforms, and occasionally, surprising discoveries.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - **bspchemy[at]gmail.com**
-
-ORCID: [0000-0003-3825-0534](https://orcid.org/0000-0003-3825-0534)

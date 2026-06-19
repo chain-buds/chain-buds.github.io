@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/chain-buds",
       "Google Scholar": "https://scholar.google.com/citations?hl=zh-CN&user=oc9IiSEAAAAJ",
+      ORCID: "https://orcid.org/0000-0003-3825-0534",
       "chain-buds": "https://www.chainbot.top/"
     },
   }),
