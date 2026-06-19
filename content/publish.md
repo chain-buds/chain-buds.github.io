@@ -79,7 +79,7 @@ img { vertical-align: top; }
   </li>
 
   <li>
-    Ge, Y., <b>Bai, S.</b>, Qiang, Z., Liu, Y., Wu, Y., &amp; Shen, X. (2026).
+    Ge, Y.#, <b>Bai, S.</b>#, Qiang, Z.#, Liu, Y.#, Wu, Y., &amp; Shen, X. (2026).
     LagCI Enables Inference of Temporal Causal Relationships from Dense Multi-Omic Time Series.
     <i>bioRxiv</i>, 2026.04.15.718654.
     <span class="pub-actions">
