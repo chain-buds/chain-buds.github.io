@@ -55,8 +55,6 @@ img { vertical-align: top; }
 .btn .icon { width: 1em; height: 1em; display: inline-block; }
 </style>
 
-
-
 <ul class="pub-list">
   <li>
     Du, D., Peng, H., He, L., <b>Bai, S.</b>, Li, Z., &amp; Teng, H. (2022).
