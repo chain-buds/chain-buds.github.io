@@ -83,8 +83,8 @@ img { vertical-align: top; }
     LagCI Enables Inference of Temporal Causal Relationships from Dense Multi-Omic Time Series.
     <i>bioRxiv</i>, 2026.04.15.718654.
     <span class="pub-actions">
-      <a class="btn" href="/static/pdfs/lagci-biorxiv.pdf" target="_blank" rel="noopener">Download</a>
-      <a class="btn" href="https://www.biorxiv.org/content/10.64898/2026.04.15.718654v1" target="_blank" rel="noopener">Read online</a>
+      <a class="btn" href="/static/pdfs/lagci2026.pdf" target="_blank" rel="noopener">Download</a>
+      <a class="btn" href="https://academic.oup.com/bib/article/27/5/bbag464/8789718" target="_blank" rel="noopener">Read online</a>
       <a class="btn" href="https://github.com/jaspershen-lab/lagci" target="_blank" rel="noopener">Code</a>
     </span>
   </li>
