@@ -34,7 +34,7 @@ Open-source tools and applications I build and maintain. See more on my [GitHub]
   <li>
     <b>lagci</b> — One of the developers of this method and R package for lagged correlation inference.
     <span class="sw-actions">
-      <a class="btn" href="https://www.biorxiv.org/content/10.64898/2026.04.15.718654v1" target="_blank" rel="noopener">Preprint</a>
+      <a class="btn" href="https://academic.oup.com/bib/article/27/5/bbag464/8789718" target="_blank" rel="noopener">Paper</a>
       <a class="btn" href="https://www.shen-lab.org/lagci-tutorial/" target="_blank" rel="noopener">Tutorial</a>
       <a class="btn" href="https://github.com/jaspershen-lab/lagci" target="_blank" rel="noopener">GitHub</a>
     </span>
